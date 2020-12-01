@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import "../node_modules/leaflet/dist/leaflet.css";
+
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
